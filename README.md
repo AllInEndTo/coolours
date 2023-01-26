@@ -1,3 +1,3 @@
 # Случайная генерация цветов
 
-### Использовал font-awesome, Roboto, chroma-js
+### Использовал font-awesome, шрифт Roboto, chroma-js   
